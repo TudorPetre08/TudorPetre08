@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TudorPetre08
+- 👀 I’m interested in app programming in Xcode (swift)
+- 🌱 I’m currently learning Swift programming
+- 📫 How to reach me: tsp_020@tuta.io
